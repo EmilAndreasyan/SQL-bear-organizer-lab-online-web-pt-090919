@@ -1,3 +1,4 @@
 CREATE TABLE bears (
-  id integer
+  id INTEGER PRIMARY KEY,
+  
 )
